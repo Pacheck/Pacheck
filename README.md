@@ -1,5 +1,7 @@
 # Hi, I'm Pedro
 
+https://user-images.githubusercontent.com/35742444/166314733-f5e6ea82-bb27-4557-801a-74169e093d31.mp4
+
 <img align="right" width="40%" src="https://c.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif" alt="Me Coding" />
 
 ### Welcome to my page!
