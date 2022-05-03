@@ -93,6 +93,9 @@
 
 <br/>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pacheck&show_icons=true&theme=react" alt="Mitsu325's github stats" />
-</p>
+<!-- <p align="left"> -->
+  <div style="backgroundColor:red;">
+    <img src="https://github-readme-stats.vercel.app/api?username=pacheck&show_icons=true&theme=react" alt="Mitsu325's github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pacheck&layout=compact&theme=react" alt="Most used languages" />
+  </div>  
+<!-- </p> -->
