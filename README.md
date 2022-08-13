@@ -9,7 +9,7 @@
 
 ### Talking about Personal Stuffs
 
-- 👨🏽‍💻 Front End Developer @MediaPro Software
+- 👨🏽‍💻 Front End Developer @Moss Earth
 
 - 🌱 Currently learning Webpack, Java and Testing; 
 
