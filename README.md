@@ -11,7 +11,7 @@
 
 - 👨🏽‍💻 Front End Developer @Moss Earth
 
-- 🌱 Currently learning Webpack, Java and Testing; 
+- 🌱 Currently learning Webpack, NextJS and Testing (RTL, Jest); 
 
 - 🎮 I really enjoy reading and playing games (CS:GO, League of legends, Dota 2).
 
