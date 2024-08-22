@@ -9,7 +9,7 @@
 
 ### Talking about Personal Stuffs
 
-- 👨🏽‍💻 Front End Developer @Moss Earth
+- 👨🏽‍💻 Front End Developer @Extreme Digital Solutions
 
 - 🌱 Currently learning Webpack, NextJS and Testing (RTL, Jest); 
 
