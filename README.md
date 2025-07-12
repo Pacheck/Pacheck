@@ -9,9 +9,9 @@
 
 ### Talking about Personal Stuffs
 
-- 👨🏽‍💻 Front End Developer @Extreme Digital Solutions
+<!-- - 👨🏽‍💻 Front End Developer @Extreme Digital Solutions -->
 
-- 🌱 Currently learning Webpack, NextJS and Testing (RTL, Jest); 
+- 🌱 Currently learning C#, Razor and ASP.Net(Microservices); 
 
 - 🎮 I really enjoy reading and playing games (CS:GO, League of legends, Dota 2).
 
